@@ -6,12 +6,7 @@ UniBot é um assistente conversacional que responde perguntas sobre a Universida
 
 | Username GitHub   | Nome Completo              | Matrícula    |
 |-------------------|----------------------------|--------------|
-| Lucas-Dimitri     | Lucas Ferreira Soares      | XXXXXXXXXX   |
-| (username 2)      | (Nome 2)                   | XXXXXXXXXX   |
-| (username 3)      | (Nome 3)                   | XXXXXXXXXX   |
-| (username 4)      | (Nome 4)                   | XXXXXXXXXX   |
-
-> **Preencha** os dados dos demais integrantes antes da entrega.
+| Lucas-Dimitri     | Lucas Ferreira Soares      | 2310100379   |
 
 ---
 
